@@ -1,6 +1,8 @@
-This one does devolope Matlab function about LU Factorization of a square matrix with partial pivoting. 
+This one does devolope Matlab function about LU Factorization of a square matrix with partial pivoting. Explanations are following:
+
 *Inputs: 
 A - coefficient matrix
+
 Outputs:
 L - lower triangular matrix, with 1's along the diagonals
 U - upper triangular matrix
