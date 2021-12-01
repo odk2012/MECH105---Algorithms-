@@ -1,10 +1,10 @@
 This one does general MATLAB function for integrating experimental data using Simpson’s 1/3 rule. I used function to check k if there are an odd number of intervals, 
 if there are, the trapezoidal rule should be used for the last interval. 
 
-*function I = Simpson(x,y)
+* function I = Simpson(x,y)
 
-*Where the function numerically evaluates the integral of the vector of function values y with respect to x.
-*Your matlab function also include the following:
+* Where the function numerically evaluates the integral of the vector of function values y with respect to x.
+* Your matlab function also include the following:
 
 *Error check that the inputs are the same length.
 
